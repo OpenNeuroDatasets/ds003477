@@ -1,0 +1,4 @@
+**/*.log
+**/*phy
+bids_validator_log.txt
+extra_data
